@@ -17,7 +17,7 @@ When importing code from other files make sure the imports maintain this order
     All files in the app/core/utils/math/ directory except for Vector
     Always use `import "math/THE_FILE"` instead of `import "app/core/utils/math/THE_FILE"`
 
-
+**Files imported from the app/core directory should be orderd by subdirectory in the following order**
 ## APP/CORE/ ##
     **Files imported from the app/core directory should be orderd by subdirectory in the following order**
     UTILS
