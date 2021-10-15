@@ -19,7 +19,7 @@ When importing code from other files make sure the imports maintain this order
 
 
 ## APP/CORE/ ##
-    ** Files imported from the app/core directory should be orderd by subdirectory in the following order **
+    **Files imported from the app/core directory should be orderd by subdirectory in the following order**
     UTILS
     ACTIONS
     TOOLS
@@ -34,14 +34,14 @@ When importing code from other files make sure the imports maintain this order
     MODELS
 
 ## SITE/SHARED/ ##
-    ** Files imported from the site/shared directory should be orderd by subdirectory in the following order **
+    **Files imported from the site/shared directory should be orderd by subdirectory in the following order**
         UTILS
         API
         STATE
         COMPONENTS
         CONTAINERS
 ## SITE/DIGITAL ##
-    ** Files imported from the site/digital directory should be orderd by subdirectory in the following order **
+    **Files imported from the site/digital directory should be orderd by subdirectory in the following order**
         UTILS
         API
         STATE
